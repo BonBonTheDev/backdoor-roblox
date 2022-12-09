@@ -133,6 +133,9 @@ end
 
 
 -- initialize scanner
-local target = "require(10668668915)"
+local target = "require(1818)" --// EDIT YOUR 1818 TO YOUR OWN!
 scan2(target)
 scanRems(target)
+
+-- made by Alex J0nes --
+-- discord: Alex J0nes#0777
